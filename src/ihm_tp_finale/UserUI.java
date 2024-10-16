@@ -448,7 +448,7 @@ public class UserUI {
 			Refresh_cl_table.setBounds(198, 124, 178, 39);
 			cl_list_layer.add(Refresh_cl_table);
 			
-			Icon icon = new ImageIcon("C:\\Users\\raouf\\Downloads\\icons8-add-100.png");
+			Icon icon = new ImageIcon("images\\plus.png");
 			JButton btnNewButton = new JButton(icon);
 			btnNewButton.setBounds(230, 31, 164, 184);
 			new_client_layer.add(btnNewButton);
